@@ -1,0 +1,16 @@
+Subject: Test for current project 
+
+Hi Team,
+
+We reviewed the current project progress and have a few important updates.
+
+The client has requested that the testing phase begin by July 15 instead of July 22.
+To meet this timeline, all development tasks should be completed by July 10.
+
+The QA team should prioritize test case preparation this week.
+We will discuss the overall progress during Monday's review meeting.
+
+Please reach out if you foresee any challenges or delays.
+
+Thanks,
+Deepika 

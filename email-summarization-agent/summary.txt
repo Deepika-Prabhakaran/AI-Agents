@@ -1,0 +1,31 @@
+Email Summary  (2026-06-19)
+============================================
+
+Subject : Test for current project
+From    : Deepika
+
+Urgency : High
+
+category :Work
+
+SUMMARY
+-------
+The client has moved the testing start date to July 15, requiring all development work to finish by July 10. The QA team must prioritize test case preparation this week, and the team will review progress in Monday's meeting.
+
+KEY POINTS
+----------
+  • Testing phase now starts on July 15 (previously July 22).
+  • All development tasks must be completed by July 10.
+  • QA team should prioritize test case preparation this week.
+  • Progress will be discussed in Monday's review meeting.
+
+ACTION ITEMS
+------------
+  • Development team: complete all development tasks by July 10.
+  • QA team: prioritize and prepare test cases within the current week.
+  • All team members: raise any potential challenges or delays before the Monday meeting.
+
+DEADLINES
+---------
+  • July 10 – development tasks completion
+  • July 15 – testing phase start
