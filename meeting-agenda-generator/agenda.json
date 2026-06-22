@@ -1,0 +1,44 @@
+{
+  "meeting_title": "Q1 Product Planning",
+  "objective": "Decide priorities for Q1 roadmap and align teams",
+  "total_duration_minutes": 60,
+  "agenda": [
+    {
+      "topic": "Welcome and agenda overview",
+      "time_minutes": 5,
+      "owner": "Product Lead",
+      "outcome": "Set expectations and confirm meeting flow"
+    },
+    {
+      "topic": "Current backlog and market insights review",
+      "time_minutes": 10,
+      "owner": "Marketing Lead",
+      "outcome": "Shared understanding of existing items and market context"
+    },
+    {
+      "topic": "Feature proposals presentation",
+      "time_minutes": 20,
+      "owner": "Engineering Lead",
+      "outcome": "All participants aware of technical feasibility and effort estimates"
+    },
+    {
+      "topic": "Prioritization discussion and decision on top 3 features",
+      "time_minutes": 15,
+      "owner": "Product Lead",
+      "outcome": "Decision point: agreed top 3 features for Q1 roadmap"
+    },
+    {
+      "topic": "Define next steps and ownership",
+      "time_minutes": 5,
+      "owner": "Product Lead",
+      "outcome": "Action items assigned, timeline clarified"
+    },
+    {
+      "topic": "Wrap\u2011up and closing remarks",
+      "time_minutes": 5,
+      "owner": "Product Lead",
+      "outcome": "Confirm decisions, recap action items, and close meeting"
+    }
+  ],
+  "generated_on": "2026-06-22"
+}

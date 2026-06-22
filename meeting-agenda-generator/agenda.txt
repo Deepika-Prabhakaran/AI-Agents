@@ -1,0 +1,35 @@
+Meeting Agenda  (2026-06-22)
+================================================
+
+Title     : Q1 Product Planning
+Objective : Decide priorities for Q1 roadmap and align teams
+Duration  : 60 minutes
+
+AGENDA
+------
+1. Welcome and agenda overview (5 min)  [==                  ]
+   Owner  : Product Lead
+   Outcome: Set expectations and confirm meeting flow
+
+2. Current backlog and market insights review (10 min)  [===                 ]
+   Owner  : Marketing Lead
+   Outcome: Shared understanding of existing items and market context
+
+3. Feature proposals presentation (20 min)  [=======             ]
+   Owner  : Engineering Lead
+   Outcome: All participants aware of technical feasibility and effort estimates
+
+4. Prioritization discussion and decision on top 3 features (15 min)  [=====               ]
+   Owner  : Product Lead
+   Outcome: Decision point: agreed top 3 features for Q1 roadmap
+
+5. Define next steps and ownership (5 min)  [==                  ]
+   Owner  : Product Lead
+   Outcome: Action items assigned, timeline clarified
+
+6. Wrap‑up and closing remarks (5 min)  [==                  ]
+   Owner  : Product Lead
+   Outcome: Confirm decisions, recap action items, and close meeting
+
+------------------------------------------------
+Time used : 60/60 min  (fully allocated)
