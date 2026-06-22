@@ -1,6 +1,6 @@
 # Meeting Agenda Generator Agent
 
-A Python CLI agent that reads a meeting brief, sends it to an LLM, and outputs a structured, time-boxed meeting agenda with validation and ASCII time bars — built as Day 4 of a personal AI agent learning series.
+A Python CLI agent that reads a meeting brief, sends it to an LLM, and outputs a structured, time-boxed meeting agenda with validation and ASCII time bars — built as Day 3 of a personal AI agent learning series.
 
 ---
 
@@ -192,7 +192,7 @@ client = OpenAI(
     api_key=os.environ.get("GROQ_API_KEY"),
     base_url="https://api.groq.com/openai/v1",
 )
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "openai/gpt-oss-120b"
 ```
 
 To switch providers, only the client block changes — `parse_response`, `validate`, `save_outputs`, and `render_console` are identical regardless of provider.
@@ -271,7 +271,7 @@ __pycache__/
 
 ## Part of
 
-This is **Day 4** of a personal AI agent build series.
+This is **Day 3** of a personal AI agent build series.
 
 | Day | Agent | Key concept |
 |---|---|---|
