@@ -1,0 +1,15 @@
+AI agents are autonomous systems that can plan, reason, and act toward goals without human intervention.
+
+Large Language Models like GPT and Claude are trained on massive text datasets using transformer architecture.
+
+Vector databases store high-dimensional embeddings and support fast similarity search using cosine or dot-product distance.
+
+RAG stands for Retrieval-Augmented Generation. It combines a retrieval step with a generative model to produce grounded, accurate responses.
+
+Prompt engineering is the practice of crafting inputs to guide language model behavior toward desired outputs.
+
+Fine-tuning involves training a pretrained model on a smaller domain-specific dataset to improve performance on specific tasks.
+
+Hallucination in LLMs refers to the model generating factually incorrect or fabricated information with high confidence.
+
+The transformer architecture uses self-attention mechanisms to weigh the importance of different tokens in a sequence.
